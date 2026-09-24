@@ -16,6 +16,9 @@ Responsive front-end project built with **HTML, CSS and JavaScript**, including 
 ### [Expense Tracker](https://github.com/wilmetjph/expense-tracker)
 Simple expense-tracking application built with **HTML, CSS and JavaScript**, with dynamic expense creation and deletion.
 
+### [Portfolio Landing Page](https://github.com/wilmetjph/portfolio-landing-page)
+Early personal portfolio built with **HTML, CSS and JavaScript**. [View the live page](https://wilmetjph.github.io/portfolio-landing-page/).
+
 ## 🛠️ Technologies
 
 **Data:** Python · Pandas · NumPy · SQL  
