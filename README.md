@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jean Wilmet
 
-<!--
-**wilmetjph/wilmetjph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance professional with experience in wealth management, investment analysis and portfolio management. I am currently developing my skills in **data analysis, Python and web development** through practical projects.
 
-Here are some ideas to get you started:
+## 📊 Data Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data analysis projects using **Python, Pandas, NumPy, SQL and data visualization**.
+
+*Projects coming soon.*
+
+## 🌐 Web Projects
+
+### [Flowdesk](https://github.com/wilmetjph/flowdesk)
+Responsive front-end project built with **HTML, CSS and JavaScript**, including interactive components and a mobile-friendly layout.
+
+### [Expense Tracker](https://github.com/wilmetjph/expense-tracker)
+Simple expense-tracking application built with **HTML, CSS and JavaScript**, with dynamic expense creation and deletion.
+
+## 🛠️ Technologies
+
+**Data:** Python · Pandas · NumPy · SQL  
+**Web:** HTML · CSS · JavaScript  
+**Other:** VBA · Git · GitHub · C · C++ · Java
