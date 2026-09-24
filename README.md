@@ -10,14 +10,8 @@ Data analysis projects using **Python, Pandas, NumPy, SQL and data visualization
 
 ## 🌐 Web Projects
 
-### [Flowdesk](https://github.com/wilmetjph/flowdesk)
-Responsive front-end project built with **HTML, CSS and JavaScript**, including interactive components and a mobile-friendly layout.
-
-### [Expense Tracker](https://github.com/wilmetjph/expense-tracker)
-Simple expense-tracking application built with **HTML, CSS and JavaScript**, with dynamic expense creation and deletion.
-
-### [Portfolio Landing Page](https://github.com/wilmetjph/portfolio-landing-page)
-Early personal portfolio built with **HTML, CSS and JavaScript**. [View the live page](https://wilmetjph.github.io/portfolio-landing-page/).
+### [Portfolio Landing Page](https://wilmetjph.github.io/portfolio-landing-page/)
+An overview of my web projects, including Little Lemon and Flowdesk. [View the source code](https://github.com/wilmetjph/portfolio-landing-page).
 
 ## 🛠️ Technologies
 
