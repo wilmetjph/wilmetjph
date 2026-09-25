@@ -1,6 +1,6 @@
 # Jean Wilmet
 
-Finance professional with experience in project coordination, business analysis, investment analysis and portfolio management. I am currently developing my skills in **data analysis and web development** through practical projects.
+Finance professional with experience in project coordination, business analysis, investment analysis and portfolio management. I am currently developing my data analysis skills through practical projects, while also exploring web technologies.
 
 ## 📊 Data Projects
 
