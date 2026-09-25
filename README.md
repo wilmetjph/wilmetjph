@@ -6,7 +6,9 @@ Finance professional with experience in project coordination, business analysis,
 
 Data analysis projects using **Python, Pandas, NumPy, SQL and data visualization**.
 
-*Projects coming soon.*
+### [Investment Funds Analysis](https://github.com/wilmetjph/investment-funds-analysis)
+
+Exploratory analysis of 520 synthetic investment funds using Python, Pandas and Matplotlib. Analysis of asset class distribution and screening of European equity funds based on return and management fee criteria.
 
 ## 🌐 Web Projects
 
