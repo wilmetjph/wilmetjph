@@ -1,22 +1,21 @@
 # Jean Wilmet
 
-Finance professional with experience in project coordination, business analysis, investment analysis and portfolio management. I am currently developing my data analysis skills through practical projects, while also exploring web technologies.
+Finance professional with experience in project coordination, business analysis, investment analysis and portfolio management. I am currently developing my data analytics skills through practical projects, while also maintaining a portfolio of web development work.
 
-## 📊 Data Projects
+## 📊 Data Analytics
 
-Data analysis projects using **Python, Pandas, NumPy, SQL and data visualization**.
+Projects focused on Python, pandas, financial datasets and business-oriented analysis.
 
-### [Investment Funds Analysis](https://github.com/wilmetjph/investment-funds-analysis)
+[View Data Analytics portfolio](https://github.com/wilmetjph/data-analytics)
 
-Exploratory analysis of 520 synthetic investment funds using Python, Pandas and Matplotlib. Analysis of asset class distribution and screening of European equity funds based on return and management fee criteria.
+## 🌐 Web Development
 
-## 🌐 Web Projects
+Projects built with HTML, CSS and JavaScript, including responsive layouts and interactive interfaces.
 
-### [Portfolio Landing Page](https://wilmetjph.github.io/portfolio-landing-page/)
-An overview of my web projects, including Little Lemon and Flowdesk. [View the source code](https://github.com/wilmetjph/portfolio-landing-page).
+[View Web Development portfolio](https://github.com/wilmetjph/web-development)
 
 ## 🛠️ Technologies
 
-**Data:** Python · Pandas · NumPy · SQL  
+**Data:** Python · pandas · NumPy · SQL · Matplotlib  
 **Web:** HTML · CSS · JavaScript  
 **Other:** VBA · Git · GitHub · C · C++ · Java
