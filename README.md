@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jean Wilmet
 
-<!--
-**wilmetjph/wilmetjph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance professional with experience in portfolio management, investment analysis and project coordination, and a strong interest in programming and data analytics.
 
-Here are some ideas to get you started:
+## Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python projects focused on data exploration, manipulation and analysis, using tools such as pandas and Jupyter Notebook.
+
+[Explore Data Analytics projects](https://github.com/wilmetjph/data-analytics)
+
+## Web Development
+
+Projects and exercises in HTML, CSS and JavaScript, covering responsive layouts and interactive web interfaces.
+
+[Explore Web Development projects](https://github.com/wilmetjph/web-development)
