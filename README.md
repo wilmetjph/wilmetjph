@@ -1,6 +1,6 @@
 # Jean Wilmet
 
-Finance professional with experience in portfolio management, investment analysis and project coordination, and a strong interest in programming.
+Finance professional with experience in investment management and project coordination, currently developing skills in programming and software development.
 
 ## 💻 Web Development
 
