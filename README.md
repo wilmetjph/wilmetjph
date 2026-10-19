@@ -1,6 +1,8 @@
 # Jean Wilmet
 
-Finance professional with experience in investment management and project coordination, currently developing skills in programming and web application development.
+Finance professional with over five years of experience in investment management and project coordination at Rothschild & Co.
+
+Building on previous experience in VBA development at Rothschild & Co and programming foundations in C++, Java and C, I am further developing my technical skills in web development (HTML, CSS and JavaScript), with a particular interest in building web applications.
 
 ## 💻 Web Development
 
