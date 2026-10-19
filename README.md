@@ -2,7 +2,7 @@
 
 Finance professional with over five years of experience in investment management and project coordination at Rothschild & Co.
 
-Building on previous experience in VBA development at Rothschild & Co and programming foundations in C++, Java and C, I am further developing my technical skills in web development (HTML, CSS and JavaScript), with a particular interest in building web applications.
+Building on previous experience in VBA development at Rothschild & Co and programming foundations in C++, Java and C, I am further developing my technical skills in web development (through self-directed learning and training at efp), with a particular interest in building web applications.
 
 ## 💻 Web Development
 
