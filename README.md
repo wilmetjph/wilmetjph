@@ -8,7 +8,4 @@ Building on previous experience in VBA development at Rothschild & Co and progra
 
 Projects and exercises in HTML, CSS and JavaScript, developed through self-directed learning and training at efp, covering responsive layouts and interactive web interfaces.
 
-- [EFP coursework and exercises](https://github.com/wilmetjph/web-development/tree/main/00-efp)
-- [Web projects](https://github.com/wilmetjph/web-development/tree/main/01-projects).
-
 [Explore the repository](https://github.com/wilmetjph/web-development)
