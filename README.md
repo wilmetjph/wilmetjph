@@ -8,9 +8,13 @@ Building on previous experience in VBA development at Rothschild & Co and progra
 
 Projects and exercises in HTML, CSS and JavaScript, developed through self-directed learning and training at efp, covering responsive layouts and interactive web interfaces.
 
-### Featured project - Flowdesk
+### Featured projects
 
-A responsive business website developed with HTML, CSS and JavaScript.
+**La Pazza Gioia** — A multi-page responsive website built with HTML and CSS as part of my web development training at efp.
+
+[View La Pazza Gioia](https://github.com/wilmetjph/LaPazzaGioia)
+
+**Flowdesk** — A responsive business website developed with HTML, CSS and JavaScript.
 
 [View Flowdesk](https://github.com/wilmetjph/web-development/tree/main/01-projects/02-flowdesk)
 
