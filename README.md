@@ -1,8 +1,10 @@
 # Jean Wilmet
 
-Background in banking, with over five years of experience in portfolio management and project coordination.
+Interested in programming and software development, with a focus on building practical applications and exploring new technologies.
 
-Hands-on experience with VBA automation and programming foundations in C, C++, and Java. Currently developing practical skills in HTML, CSS, and JavaScript, with a growing interest in application development and programming beyond web page design.
+Hands-on experience with VBA automation, foundations in C, C++ and Java, and ongoing development of skills in JavaScript, HTML and CSS.
+
+Previous professional experience in banking, spanning portfolio management and project coordination.
 
 ## Web Development Projects
 
