@@ -1,21 +1,18 @@
 # Jean Wilmet
 
-Finance professional with over five years of experience in portfolio management and project coordination at Rothschild & Co.
+Background in banking, with over five years of experience in portfolio management and project coordination.
 
-Building on previous experience in VBA development at Rothschild & Co and programming foundations in C++, Java and C, I am further developing my technical skills in web development, with a particular interest in building web applications.
+Hands-on experience with VBA automation and programming foundations in C, C++, and Java. Currently developing practical skills in HTML, CSS, and JavaScript, with a growing interest in application development and programming beyond web page design.
 
-## 💻 Web Development
+## Web Development Projects
 
-Projects and exercises in HTML, CSS and JavaScript, developed through self-directed learning and training at efp, covering responsive layouts and interactive web interfaces.
+### [La Pazza Gioia](https://github.com/wilmetjph/web-development/tree/main/Projects/LaPazzaGioia)
+A responsive multi-page restaurant website built with HTML and CSS.
 
-### Featured projects
+### [Adopte un Compagnon](https://github.com/wilmetjph/web-development/tree/main/Projects/AdopteUnCompagnon)
+A responsive dog adoption website featuring animal profiles and a mobile-friendly layout.
 
-**La Pazza Gioia** — A multi-page responsive website built with HTML and CSS as part of my web development training at efp.
+### [Flowdesk](https://github.com/wilmetjph/web-development/tree/main/Projects/Flowdesk)
+A responsive business website developed with HTML, CSS, and JavaScript.
 
-[View La Pazza Gioia](https://github.com/wilmetjph/LaPazzaGioia)
-
-**Flowdesk** — A responsive business website developed with HTML, CSS and JavaScript.
-
-[View Flowdesk](https://github.com/wilmetjph/web-development/tree/main/01-projects/02-flowdesk)
-
-[Explore all projects](https://github.com/wilmetjph/web-development)
+[Explore projects and exercises](https://github.com/wilmetjph/web-development)
