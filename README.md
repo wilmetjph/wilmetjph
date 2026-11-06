@@ -1,10 +1,8 @@
 # Jean Wilmet
 
-Interested in programming and software development, with a focus on building practical applications.
+Experienced finance professional - background in portfolio management and project coordination - with a strong interest in programming and software development.
 
-Hands-on experience with VBA automation, foundations in C, C++ and Java, and ongoing development of skills in JavaScript, HTML and CSS.
-
-Previous professional experience in banking, spanning portfolio management and project coordination.
+Hands-on experience with VBA automation and solid foundations in C, C++ and Java. Currently developing skills in web development (HTML, CSS and JavaScript).
 
 ## Web Development Projects
 
