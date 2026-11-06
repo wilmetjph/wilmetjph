@@ -1,6 +1,6 @@
 # Jean Wilmet
 
-Interested in programming and software development, with a focus on building practical applications and exploring new technologies.
+Interested in programming and software development, with a focus on building practical applications.
 
 Hands-on experience with VBA automation, foundations in C, C++ and Java, and ongoing development of skills in JavaScript, HTML and CSS.
 
