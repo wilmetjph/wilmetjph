@@ -1,15 +1,32 @@
 # Jean Wilmet
 
-Experienced finance professional with a strong interest in programming and software development.
+Experienced finance professional and a strong interest in programming and software development.
 
-I have hands-on experience with VBA automation and solid foundations in C, C++ and Java. I am currently developing my skills in web development (HTML, CSS and JavaScript).
+I have hands-on experience with VBA automation and solid foundations in C, C++ and Java. I am currently developing my skills in web development (HTML, CSS and JavaScript), with the aim of building interactive web applications.
 
 ## Web Development Projects
 
-### [La Pazza Gioia](https://wilmetjph.github.io/web-development/Projects/LaPazzaGioia/)
-A responsive multi-page restaurant website built with HTML and CSS.
+### [Flowdesk](https://github.com/wilmetjph/flowdesk)
+Responsive pricing page built with HTML, CSS and vanilla JavaScript, featuring interactive components.
 
-### [Flowdesk](https://wilmetjph.github.io/web-development/Projects/Flowdesk/)
-A responsive business website developed with HTML, CSS, and JavaScript.
+[Live Demo](https://wilmetjph.github.io/flowdesk/)
 
-[Explore projects and exercises](https://github.com/wilmetjph/web-development)
+### [La Pazza Gioia](https://github.com/wilmetjph/la-pazza-gioia)
+Responsive multi-page restaurant website recreated as part of a front-end development course.
+
+[Live Demo](https://wilmetjph.github.io/la-pazza-gioia/)
+
+### [Animal Adoption Website](https://github.com/abdel20-web/projet-adoption-animaux)
+Collaborative web development project focused on responsive design and user experience.
+
+*Work in progress — team project.*
+
+## Technical Skills
+
+- **Web:** HTML, CSS, JavaScript
+- **Programming:** VBA, Python, C, C++, Java
+- **Tools:** Git, GitHub
+
+---
+
+*Interested in software development, business applications and process automation.*
