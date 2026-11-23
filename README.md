@@ -26,7 +26,3 @@ Collaborative web development project focused on responsive design and user expe
 - **Web:** HTML, CSS, JavaScript
 - **Programming:** VBA, Python, C, C++, Java
 - **Tools:** Git, GitHub
-
----
-
-*Interested in software development, business applications and process automation.*
