@@ -2,7 +2,7 @@
 
 Experienced finance professional with a strong interest in programming and software development.
 
-I have hands-on experience with VBA automation and solid foundations in C, C++ and Java. I am currently developing my skills in web development (HTML, CSS and JavaScript), with the aim of building interactive web applications.
+I have hands-on experience with VBA automation and solid foundations in C, C++ and Java. I am currently developing my skills in web development, with the aim of building interactive web applications.
 
 ## Web Development Projects
 
